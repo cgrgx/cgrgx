@@ -3,12 +3,6 @@
 
 ###
 
-<div align="center">
-<img height='200' src="https://github.com/cgrgx/cgrgx/assets/112350480/e3b6f2ec-c2e8-4fab-9fce-606609522d7b" alt="programming png"/>
-</div>
-
-###
-
 
 <p align="left">I'm Chiran Gurung, a front-end developer. <br><br>- 🏫 I’m studying an advanced diploma in Information Technology Innovation and Design at Conestoga College, Waterloo.<br>- 📚 I'm currently learning React, Next.js.<br>- ⚡ In my free time I play football. I also love to play other sports games.<br>- 📫 How to reach me:
  <a href="https://www.linkedin.com/in/chirangurung/" align="left">
