@@ -14,7 +14,7 @@ I'm interest in web development and I specialize in React and JavaScript. Here's
 
 **Backend:** Tanstack Query, Node, Express, .NET Core, Servlets
 
-**Testing** Jest, React Testing Library, xUnit, JUnit
+**Testing:** Jest, React Testing Library, xUnit, JUnit
 
 **Database:** MySQL, MSSQL, PostgreSQL, MongoDB
 
