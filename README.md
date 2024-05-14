@@ -10,9 +10,9 @@ I'm interest in web development and I specialize in React and JavaScript. Here's
 - Web development
 - Soccer
 ### 🛠 Language and tools
-**Fronend:** JavaScript, React, Redux, TailwindCSS, styled-components
+**Fronend:** JavaScript, React, Redux Toolkit, TailwindCSS, styled-components
 
-**Backend:** Node, Express, .NET Core, Servlets
+**Backend:** Tanstack Query, Node, Express, .NET Core, Servlets
 
 **Testing** Jest, React Testing Library, xUnit, JUnit
 
@@ -23,5 +23,5 @@ I'm interest in web development and I specialize in React and JavaScript. Here's
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chirangrg.com.np/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirangurung/)
 
